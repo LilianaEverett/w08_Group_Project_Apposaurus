@@ -8,8 +8,11 @@ The BBC are looking to improve their online offering of educational content by d
 MVP
 A user should be able to:
 
-view some educational content on a particular topic
-be able to interact with the page to move through different sections of content
-Example Extensions
-Use an API to bring in content or a database to store information.
-Use charts or maps to display your information to the page.
+- view some educational content on a particular topic
+- be able to interact with the page to move through different sections of content
+
+Example Extensions:
+
+- Use an API to bring in content or a database to store information.
+- Use charts or maps to display your information to the page.
+
