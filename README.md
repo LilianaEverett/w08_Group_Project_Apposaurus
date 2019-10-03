@@ -1,4 +1,4 @@
-# w08_Group_Project_Appsaurus
+# Appsaurus
 
 Brief:
 
