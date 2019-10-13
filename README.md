@@ -20,9 +20,10 @@ A user should be able to:
 
 Download or clone this repository
 
-Go insinde the created respository folder, then go inside the `client` folder.
+In your terminal window, go inside the created respository folder, then go inside the `client` folder.
 
 `cd client`
+
 Run the following command to install the dependencies:
 
 `npm install`
@@ -51,4 +52,4 @@ Run the following command to start your localhost server:
 
 `npm run server:dev`  (let it run)
 
-open the browser in http://localhost:8080/
+in the browser open `http://localhost:8080/` to access the app.
