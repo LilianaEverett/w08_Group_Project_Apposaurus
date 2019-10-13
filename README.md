@@ -24,13 +24,17 @@ Download or clone this repository
 
 `npm install`
 
-`npm run serve (let it run an opne another tab)`
+`npm run serve` 
+
+Open another tab:
 
 `cd server`
 
 `npm install`
 
-`mongod ( let it run and open another tab)`
+`mongod`
+
+Open another tab:
 
 `npm run server:dev (let it run)`
 
