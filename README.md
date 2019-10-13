@@ -52,4 +52,4 @@ Run the following command to start your localhost server:
 
 `npm run server:dev`  (let it run)
 
-in the browser open `http://localhost:8080/` to access the app.
+in the browser open http://localhost:8080/ to access the app.
