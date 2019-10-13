@@ -20,22 +20,35 @@ A user should be able to:
 
 Download or clone this repository
 
+Go insinde the created respository folder, then go inside the `client` folder.
+
 `cd client`
+Run the following command to install the dependencies:
 
 `npm install`
+
+Run the following command to start front end server:
 
 `npm run serve` 
 
-Open another tab:
+Open another termianl tab:
+
+Go inside the server folder (if the new tab opens on `client` you will need to `cd ..` to go back to the main project folder)
 
 `cd server`
 
+Run the following command to install the dependencies:
+
 `npm install`
+
+Run the following command to start your MongoDB server:
 
 `mongod`
 
-Open another tab:
+Open another terminal tab:
 
-`npm run server:dev (let it run)`
+Run the following command to start your localhost server:
+
+`npm run server:dev`  (let it run)
 
 open the browser in http://localhost:8080/
